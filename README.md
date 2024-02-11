@@ -8,4 +8,4 @@ This webpage has been designed by Nicolas Philippot, UI/UX designer. You can fin
 
 Here the final result:
 
-![Final result](https://s3.amazonaws.com/alu-intranet.hbtn.io/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUZTW2RLVB%2F20240211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240211T222135Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=13b49d20005905da7eb776114c6c1a1965b9b4d7854eb98dc6c0adfe0fb79317)
+![Final result](https://s3.amazonaws.com/alu-intranet.hbtn.io/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUZTW2RLVB/20240211/us-east-1/s3/aws4_request&X-Amz-Date=20240211T222135Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=13b49d20005905da7eb776114c6c1a1965b9b4d7854eb98dc6c0adfe0fb79317)
